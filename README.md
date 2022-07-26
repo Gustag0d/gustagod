@@ -23,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustag0d&show_icons=true&locale=en&layout=compact" alt="gustag0d" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustag0d&show_icons=true&locale=en" alt="gustag0d" /></p>
+
+![Snake animation](https://github.com/gustag0d/gustag0d/blob/output/github-contribution-grid-snake.svg)
+
