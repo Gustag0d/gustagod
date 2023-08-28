@@ -1,5 +1,5 @@
 <<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">Desenvolvedor Backend de Java/JavaScript</h3>
+<h3 align="center">Estudante de React Native</h3>
 
 - 🔭 Current job **I currently work as an IT support**
 
